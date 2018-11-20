@@ -1,0 +1,5 @@
+﻿  源.cpp
+e:\computer\reversi\reversi_2_20181107\源.cpp(241): warning C4101: “k”: 未引用的局部变量
+e:\computer\reversi\reversi_2_20181107\源.cpp(241): warning C4101: “j”: 未引用的局部变量
+e:\computer\reversi\reversi_2_20181107\源.cpp(228): warning C4715: “Max_Min_Test”: 不是所有的控件路径都返回值
+  reversi_2_20181107.vcxproj -> E:\Computer\reversi\x64\Debug\reversi_2_20181107.exe
